@@ -37,8 +37,8 @@ export default {
           loginType: 0,
           phone: 13546455488,
           vfCode: '',
-          // tenantId: 58977641, // 尧文峰租户
-          tenantId: 159682624, // 白云机场综保区南区
+          tenantId: 58977641, // 尧文峰租户
+          // tenantId: 159682624, // 白云机场综保区南区
           token: ''
       },
     };
