@@ -214,7 +214,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
 .Form {
   height: 100%;
   overflow: scroll;
